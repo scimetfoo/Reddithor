@@ -1,0 +1,10 @@
+# Compiled python modules.
+*.pyc
+
+# Distribution / packaging
+*.egg-info/
+.installed.cfg
+*.egg
+build/
+dist/
+
